@@ -1,0 +1,10 @@
+D:\User\Desktop\WinSoft.Service\Model\bin\Debug\Model.dll
+D:\User\Desktop\WinSoft.Service\Model\bin\Debug\Model.pdb
+D:\User\Desktop\WinSoft.Service\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\User\Desktop\WinSoft.Service\Model\obj\Debug\Model.dll
+D:\User\Desktop\WinSoft.Service\Model\obj\Debug\Model.pdb
+D:\User\Desktop\GHSTrade\Model\bin\Debug\Model.dll
+D:\User\Desktop\GHSTrade\Model\bin\Debug\Model.pdb
+D:\User\Desktop\GHSTrade\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\User\Desktop\GHSTrade\Model\obj\Debug\Model.dll
+D:\User\Desktop\GHSTrade\Model\obj\Debug\Model.pdb

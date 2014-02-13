@@ -1,0 +1,15 @@
+D:\User\Desktop\WinSoft.Service\API\obj\Debug\ResolveAssemblyReference.cache
+D:\User\Desktop\WinSoft.Service\API\bin\Debug\GHS_API.dll
+D:\User\Desktop\WinSoft.Service\API\bin\Debug\GHS_API.pdb
+D:\User\Desktop\WinSoft.Service\API\bin\Debug\Model.dll
+D:\User\Desktop\WinSoft.Service\API\bin\Debug\Model.pdb
+D:\User\Desktop\WinSoft.Service\API\obj\Debug\GHS_API.dll
+D:\User\Desktop\WinSoft.Service\API\obj\Debug\GHS_API.pdb
+D:\User\Desktop\GHSTrade\API\bin\Debug\API.dll
+D:\User\Desktop\GHSTrade\API\bin\Debug\API.pdb
+D:\User\Desktop\GHSTrade\API\bin\Debug\Model.dll
+D:\User\Desktop\GHSTrade\API\bin\Debug\System.Web.Extensions.dll
+D:\User\Desktop\GHSTrade\API\bin\Debug\Model.pdb
+D:\User\Desktop\GHSTrade\API\obj\Debug\ResolveAssemblyReference.cache
+D:\User\Desktop\GHSTrade\API\obj\Debug\API.dll
+D:\User\Desktop\GHSTrade\API\obj\Debug\API.pdb
